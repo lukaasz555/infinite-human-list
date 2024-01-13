@@ -1,0 +1,17 @@
+export const names = [
+	'Anna',
+	'John',
+	'Luca',
+	'Elin',
+	'Lukas',
+	'Marta',
+	'Sophie',
+	'Giulia',
+	'Oskar',
+	'Hannah',
+	'Mateusz',
+	'David',
+	'Alessia',
+	'Emil',
+	'Leon',
+];
