@@ -5,5 +5,5 @@ export interface IPerson {
 	lastname: string;
 	avatar: string;
 	age: number;
-	gender: GenderEnum;
+	gender: GenderEnum | string;
 }
