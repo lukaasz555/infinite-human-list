@@ -7,7 +7,7 @@ export const Humans = () => {
 	return (
 		<>
 			<div>
-				{persons.map(({ name, lastname, age, avatar }, index) => (
+				{persons.map(({ name, lastname, age, avatar, gender }, index) => (
 					<div
 						key={index}
 						style={{
@@ -23,6 +23,7 @@ export const Humans = () => {
 								{name} {lastname}
 							</h2>
 							<p style={{ textAlign: 'left' }}>Age: {age}</p>
+							<p style={{ textAlign: 'left' }}>Gender: {gender}</p>
 						</div>
 						<div
 							style={{
