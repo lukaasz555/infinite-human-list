@@ -1,19 +1,13 @@
-import { generatePerson } from '../helpers/generatePerson';
+import persons from '../data/persons.json';
 
 export const Humans = () => {
-	const ppl = [];
-
-	for (let i = 0; i < 5; i++) {
-		const person = generatePerson();
-		ppl.push(person);
-	}
-
-	console.log(ppl);
+	// console.log(persons);
+	// downloadJson(ppl, 'mockData.json');
 
 	return (
 		<>
 			<div>
-				{ppl.map(({ name, lastname, age, avatar }, index) => (
+				{persons.map(({ name, lastname, age, avatar }, index) => (
 					<div
 						key={index}
 						style={{
