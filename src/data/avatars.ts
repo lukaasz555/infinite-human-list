@@ -1,0 +1,17 @@
+export const avatars = [
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/c2d5faab-b960-446b-9232-a3e2990b4c97/modular2b2.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/28e3d658-0358-42c7-9584-350ecd645609/SKIN-01+kopi.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/718989f9-b394-40d2-8ba9-cd7845ca9c37/ILL-3+kopi.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/6993ce5d-74a8-427b-890e-0b0f96c2e670/LILY-COLE-01+kopi.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/5f617801-3270-4308-b4b1-0da56cb67951/LENNY-HENRY-01+kopi.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/3bad41db-77aa-49cd-b3c1-f55e5bc504c3/VUONG-01+kopi.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/b996bb92-fb19-4f87-8c3a-1a63b488650e/2.the-new-york-times-deadofsummer.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/995326c1-f3fe-4af5-ab23-132f67af4266/McGOWAN-01+kopi.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/60ff453c-2f47-4ee5-9cee-03824b50ccb8/blvr_teasers_hornby.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/ec7f17c4-b627-4ec0-9206-fe044f018493/LANGLANG-01+kopi.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/2d74851f-80f6-4f99-89f6-2a1faa83e4f0/01.young-thug.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/4703d723-c55e-4d79-a606-a6b917babccb/blvr_teasers_olsen.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/4390659f-d7c4-4922-8136-62db6c2d2799/KENDRICK-LAMAR-02a+kopi.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/16e91902-f7e3-498a-929c-b7ebcf81f9fd/1.nyt-retraining.jpg?format=500w',
+	'https://images.squarespace-cdn.com/content/v1/63da1eeeb35caa639ed393a3/6f73ad6a-da6a-4683-82dd-c85679d8eb37/1.boyle.jpg?format=500w',
+];

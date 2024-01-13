@@ -1,0 +1,17 @@
+export const lastNames = [
+	'Kowalski',
+	'Smith',
+	'Rossi',
+	'Svensson',
+	'Schmidt',
+	'Nowak',
+	'Johnson',
+	'Bianchi',
+	'Larsson',
+	'Müller',
+	'Wójcik',
+	'Brown',
+	'Ferrari',
+	'Nilsson',
+	'Becker',
+];
