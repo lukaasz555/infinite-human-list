@@ -1,0 +1,44 @@
+.card__wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	min-width: 250px;
+	max-width: 600px;
+	width: 100%;
+	padding: 0.75em 1.5em;
+	border: 1px solid rgba(255, 255, 255, 0.15);
+	border-radius: 12px;
+}
+
+.card__details {
+	text-align: left;
+}
+
+.card__details--header {
+	letter-spacing: 1px;
+	font-size: 1.5em;
+	margin: 0;
+	margin-bottom: 0.75em;
+}
+
+.card__details--text {
+	margin: 0;
+}
+
+.card__picture--container {
+	display: flex;
+	justify-content: center;
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+
+.card__picture--image {
+	object-fit: contain;
+	transition: transform 0.25s;
+}
+
+.card__picture--image:hover {
+	transform: scale(1.35);
+}
