@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { Humans } from './views/Humans';
+import { Humans } from './views/Humans/Humans';
 import './App.css';
 
 function App() {
